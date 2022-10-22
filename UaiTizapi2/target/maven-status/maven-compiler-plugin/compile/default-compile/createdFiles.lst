@@ -1,3 +1,7 @@
-com\mycompany\uaitizapi2\Chat$2.class
-com\mycompany\uaitizapi2\Chat$1.class
-com\mycompany\uaitizapi2\Chat.class
+Servidor\Mensagem.class
+com\mycompany\uaitizapi2\cliente\Cliente1.class
+com\mycompany\uaitizapi2\cliente\Chat$1.class
+com\mycompany\uaitizapi2\cliente\Chat.class
+com\mycompany\uaitizapi2\cliente\Chat$2.class
+Servidor\Mensagem$1.class
+Servidor\Servidor.class

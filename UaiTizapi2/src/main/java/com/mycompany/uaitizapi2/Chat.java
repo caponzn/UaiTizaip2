@@ -11,7 +11,7 @@ public class Chat extends javax.swing.JFrame {
     private Socket s;
     public Chat() {
         try{
-          s = new Socket("10.140.10.34", 5000);  
+          s = new Socket("10.140.10.33", 5000);  
         }catch(IOException e){
             showMessageDialog(null, "Não se conectou ao servidor", "",ERROR_MESSAGE);
             System.exit(0);

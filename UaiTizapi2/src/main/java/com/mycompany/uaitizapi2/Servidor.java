@@ -10,7 +10,7 @@ public class Servidor {
             ServerSocket serve = new ServerSocket(5000);
             Socket socket;
             String MensagemRecebida;
-            System.out.println("Servidor On");
+            
             while(true){
                 socket = serve.accept();
                 InputStreamReader ler = new InputStreamReader(socket.getInputStream());    
